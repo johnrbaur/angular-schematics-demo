@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "smart-view": {
+      "description": "A blank schematic.",
+      "factory": "./smart-view/index#smartView"
+    }
+  }
+}
