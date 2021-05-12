@@ -3,7 +3,7 @@
   "schematics": {
     "smart-view": {
       "description": "A blank schematic.",
-      "factory": "./smart-view/index#smartView"
+      "factory": "../dist/smart-view/index#smartView"
     }
   }
 }
