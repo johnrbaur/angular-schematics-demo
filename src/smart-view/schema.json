@@ -7,6 +7,12 @@
               "$source": "argv",
               "index": 0
             }
+        },
+        "prefix": {
+            "type": "string",
+            "description": "The prefix for the component selector",
+            "minLength": 2,
+            "maxLength": 3
         }
     },
     "required": ["name"]

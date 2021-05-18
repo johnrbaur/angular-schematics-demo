@@ -1,1 +1,1 @@
-<app-<%= dasherize(name) %>-view [message]="'Hello World'"></app-<%= dasherize(name) %>-view>
+<<%= prefix %>-<%= dasherize(name) %>-view [message]="'Hello World'"></<%= prefix %>-<%= dasherize(name) %>-view>
